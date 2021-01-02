@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>RandomCircleGraphicalUserInterface</OriginalElement>
+  <nodes>
+    <node x="578.75" y="158.0">java.beans.JavaBean</node>
+    <node x="388.75000000000006" y="158.0">javax.swing.TransferHandler.HasGetTransferHandler</node>
+    <node x="0.0" y="0.0">java.awt.image.ImageObserver</node>
+    <node x="305.5" y="395.0">RandomCircleGraphicalUserInterface</node>
+    <node x="158.15476190476193" y="158.0">java.awt.Container</node>
+    <node x="357.2142857142858" y="237.0">javax.swing.JComponent</node>
+    <node x="148.00000000000006" y="0.0">java.awt.MenuContainer</node>
+    <node x="235.21428571428578" y="237.0">javax.accessibility.Accessible</node>
+    <node x="152.65476190476193" y="79.0">java.awt.Component</node>
+    <node x="298.00000000000006" y="0.0">java.io.Serializable</node>
+    <node x="0.0" y="469.0">RandomCircleMain</node>
+    <node x="385.50000000000006" y="316.0">javax.swing.JPanel</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="javax.swing.JComponent" target="java.awt.Container">
+      <point x="-42.75" y="-14.5" />
+      <point x="371.4642857142858" y="217.0" />
+      <point x="207.65476190476193" y="217.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JPanel" target="javax.accessibility.Accessible">
+      <point x="-27.0" y="-14.5" />
+      <point x="399.00000000000006" y="291.0" />
+      <point x="286.2142857142858" y="291.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.awt.Component" target="java.awt.image.ImageObserver">
+      <point x="-36.66666666666666" y="-14.5" />
+      <point x="170.98809523809527" y="54.0" />
+      <point x="64.0" y="54.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JPanel" target="java.beans.JavaBean">
+      <point x="27.0" y="-14.5" />
+      <point x="453.00000000000006" y="291.0" />
+      <point x="651.5" y="291.0" />
+      <point x="24.25" y="14.5" />
+    </edge>
+    <edge source="java.awt.Component" target="java.io.Serializable">
+      <point x="36.666666666666686" y="-14.5" />
+      <point x="244.3214285714286" y="54.0" />
+      <point x="324.75000000000006" y="54.0" />
+      <point x="-26.75" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JComponent" target="java.beans.JavaBean">
+      <point x="42.75" y="-14.5" />
+      <point x="456.9642857142858" y="217.0" />
+      <point x="603.0" y="217.0" />
+      <point x="-24.25" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JPanel" target="javax.swing.JComponent">
+      <point x="0.0" y="-14.5" />
+      <point x="426.00000000000006" y="291.0" />
+      <point x="414.2142857142858" y="291.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JComponent" target="javax.swing.TransferHandler.HasGetTransferHandler">
+      <point x="14.25" y="-14.5" />
+      <point x="428.4642857142858" y="207.0" />
+      <point x="473.75000000000006" y="207.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="RandomCircleGraphicalUserInterface" target="javax.swing.JPanel">
+      <point x="5.6843418860808015E-14" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.awt.Component" target="java.awt.MenuContainer">
+      <point x="0.0" y="-14.5" />
+      <point x="207.65476190476193" y="54.0" />
+      <point x="213.00000000000006" y="54.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.awt.Container" target="java.awt.Component">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="javax.swing.JComponent" target="java.io.Serializable">
+      <point x="-14.25" y="-14.5" />
+      <point x="399.9642857142858" y="217.0" />
+      <point x="378.25000000000006" y="217.0" />
+      <point x="26.75" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8" x="845.875" y="339.875" />
+  <SelectedNodes>
+    <node>RandomCircleGraphicalUserInterface</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
